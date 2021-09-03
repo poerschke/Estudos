@@ -1,0 +1,13 @@
+C:\Users\dougl\source\repos\ProblemaSemOO\ProblemaSemOO\bin\Debug\netcoreapp3.1\ProblemaSemOO.exe
+C:\Users\dougl\source\repos\ProblemaSemOO\ProblemaSemOO\bin\Debug\netcoreapp3.1\ProblemaSemOO.deps.json
+C:\Users\dougl\source\repos\ProblemaSemOO\ProblemaSemOO\bin\Debug\netcoreapp3.1\ProblemaSemOO.runtimeconfig.json
+C:\Users\dougl\source\repos\ProblemaSemOO\ProblemaSemOO\bin\Debug\netcoreapp3.1\ProblemaSemOO.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\ProblemaSemOO\ProblemaSemOO\bin\Debug\netcoreapp3.1\ProblemaSemOO.dll
+C:\Users\dougl\source\repos\ProblemaSemOO\ProblemaSemOO\bin\Debug\netcoreapp3.1\ProblemaSemOO.pdb
+C:\Users\dougl\source\repos\ProblemaSemOO\ProblemaSemOO\obj\Debug\netcoreapp3.1\ProblemaSemOO.csprojAssemblyReference.cache
+C:\Users\dougl\source\repos\ProblemaSemOO\ProblemaSemOO\obj\Debug\netcoreapp3.1\ProblemaSemOO.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\ProblemaSemOO\ProblemaSemOO\obj\Debug\netcoreapp3.1\ProblemaSemOO.AssemblyInfo.cs
+C:\Users\dougl\source\repos\ProblemaSemOO\ProblemaSemOO\obj\Debug\netcoreapp3.1\ProblemaSemOO.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\ProblemaSemOO\ProblemaSemOO\obj\Debug\netcoreapp3.1\ProblemaSemOO.dll
+C:\Users\dougl\source\repos\ProblemaSemOO\ProblemaSemOO\obj\Debug\netcoreapp3.1\ProblemaSemOO.pdb
+C:\Users\dougl\source\repos\ProblemaSemOO\ProblemaSemOO\obj\Debug\netcoreapp3.1\ProblemaSemOO.genruntimeconfig.cache

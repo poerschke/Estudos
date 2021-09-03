@@ -1,0 +1,13 @@
+C:\Users\dougl\source\repos\ProblemaComOO\ProblemaComOO\obj\Debug\netcoreapp3.1\ProblemaComOO.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\ProblemaComOO\ProblemaComOO\obj\Debug\netcoreapp3.1\ProblemaComOO.AssemblyInfo.cs
+C:\Users\dougl\source\repos\ProblemaComOO\ProblemaComOO\obj\Debug\netcoreapp3.1\ProblemaComOO.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\ProblemaComOO\ProblemaComOO\bin\Debug\netcoreapp3.1\ProblemaComOO.exe
+C:\Users\dougl\source\repos\ProblemaComOO\ProblemaComOO\bin\Debug\netcoreapp3.1\ProblemaComOO.deps.json
+C:\Users\dougl\source\repos\ProblemaComOO\ProblemaComOO\bin\Debug\netcoreapp3.1\ProblemaComOO.runtimeconfig.json
+C:\Users\dougl\source\repos\ProblemaComOO\ProblemaComOO\bin\Debug\netcoreapp3.1\ProblemaComOO.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\ProblemaComOO\ProblemaComOO\bin\Debug\netcoreapp3.1\ProblemaComOO.dll
+C:\Users\dougl\source\repos\ProblemaComOO\ProblemaComOO\bin\Debug\netcoreapp3.1\ProblemaComOO.pdb
+C:\Users\dougl\source\repos\ProblemaComOO\ProblemaComOO\obj\Debug\netcoreapp3.1\ProblemaComOO.dll
+C:\Users\dougl\source\repos\ProblemaComOO\ProblemaComOO\obj\Debug\netcoreapp3.1\ProblemaComOO.pdb
+C:\Users\dougl\source\repos\ProblemaComOO\ProblemaComOO\obj\Debug\netcoreapp3.1\ProblemaComOO.genruntimeconfig.cache
+C:\Users\dougl\source\repos\ProblemaComOO\ProblemaComOO\obj\Debug\netcoreapp3.1\ProblemaComOO.csprojAssemblyReference.cache

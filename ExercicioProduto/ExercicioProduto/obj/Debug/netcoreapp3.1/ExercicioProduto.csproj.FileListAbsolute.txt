@@ -1,0 +1,13 @@
+C:\Users\dougl\source\repos\ExercicioProduto\ExercicioProduto\obj\Debug\netcoreapp3.1\ExercicioProduto.csprojAssemblyReference.cache
+C:\Users\dougl\source\repos\ExercicioProduto\ExercicioProduto\obj\Debug\netcoreapp3.1\ExercicioProduto.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\ExercicioProduto\ExercicioProduto\obj\Debug\netcoreapp3.1\ExercicioProduto.AssemblyInfo.cs
+C:\Users\dougl\source\repos\ExercicioProduto\ExercicioProduto\obj\Debug\netcoreapp3.1\ExercicioProduto.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\ExercicioProduto\ExercicioProduto\bin\Debug\netcoreapp3.1\ExercicioProduto.exe
+C:\Users\dougl\source\repos\ExercicioProduto\ExercicioProduto\bin\Debug\netcoreapp3.1\ExercicioProduto.deps.json
+C:\Users\dougl\source\repos\ExercicioProduto\ExercicioProduto\bin\Debug\netcoreapp3.1\ExercicioProduto.runtimeconfig.json
+C:\Users\dougl\source\repos\ExercicioProduto\ExercicioProduto\bin\Debug\netcoreapp3.1\ExercicioProduto.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\ExercicioProduto\ExercicioProduto\bin\Debug\netcoreapp3.1\ExercicioProduto.dll
+C:\Users\dougl\source\repos\ExercicioProduto\ExercicioProduto\bin\Debug\netcoreapp3.1\ExercicioProduto.pdb
+C:\Users\dougl\source\repos\ExercicioProduto\ExercicioProduto\obj\Debug\netcoreapp3.1\ExercicioProduto.dll
+C:\Users\dougl\source\repos\ExercicioProduto\ExercicioProduto\obj\Debug\netcoreapp3.1\ExercicioProduto.pdb
+C:\Users\dougl\source\repos\ExercicioProduto\ExercicioProduto\obj\Debug\netcoreapp3.1\ExercicioProduto.genruntimeconfig.cache
