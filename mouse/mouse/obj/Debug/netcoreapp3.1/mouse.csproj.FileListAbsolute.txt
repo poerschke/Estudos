@@ -1,0 +1,4 @@
+C:\Users\dougl\source\repos\mouse\mouse\obj\Debug\netcoreapp3.1\mouse.csprojAssemblyReference.cache
+C:\Users\dougl\source\repos\mouse\mouse\obj\Debug\netcoreapp3.1\mouse.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\mouse\mouse\obj\Debug\netcoreapp3.1\mouse.AssemblyInfo.cs
+C:\Users\dougl\source\repos\mouse\mouse\obj\Debug\netcoreapp3.1\mouse.csproj.CoreCompileInputs.cache

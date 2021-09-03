@@ -1,0 +1,10 @@
+C:\Users\dougl\source\repos\TesteMouse\TesteMouse\bin\Debug\TesteMouse.exe.config
+C:\Users\dougl\source\repos\TesteMouse\TesteMouse\bin\Debug\TesteMouse.exe
+C:\Users\dougl\source\repos\TesteMouse\TesteMouse\bin\Debug\TesteMouse.pdb
+C:\Users\dougl\source\repos\TesteMouse\TesteMouse\obj\Debug\TesteMouse.csprojAssemblyReference.cache
+C:\Users\dougl\source\repos\TesteMouse\TesteMouse\obj\Debug\TesteMouse.Form1.resources
+C:\Users\dougl\source\repos\TesteMouse\TesteMouse\obj\Debug\TesteMouse.Properties.Resources.resources
+C:\Users\dougl\source\repos\TesteMouse\TesteMouse\obj\Debug\TesteMouse.csproj.GenerateResource.cache
+C:\Users\dougl\source\repos\TesteMouse\TesteMouse\obj\Debug\TesteMouse.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\TesteMouse\TesteMouse\obj\Debug\TesteMouse.exe
+C:\Users\dougl\source\repos\TesteMouse\TesteMouse\obj\Debug\TesteMouse.pdb

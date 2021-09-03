@@ -1,0 +1,13 @@
+C:\Users\dougl\source\repos\ExercicioCap5\ExercicioCap5\bin\Debug\netcoreapp3.1\ExercicioCap5.exe
+C:\Users\dougl\source\repos\ExercicioCap5\ExercicioCap5\bin\Debug\netcoreapp3.1\ExercicioCap5.deps.json
+C:\Users\dougl\source\repos\ExercicioCap5\ExercicioCap5\bin\Debug\netcoreapp3.1\ExercicioCap5.runtimeconfig.json
+C:\Users\dougl\source\repos\ExercicioCap5\ExercicioCap5\bin\Debug\netcoreapp3.1\ExercicioCap5.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\ExercicioCap5\ExercicioCap5\bin\Debug\netcoreapp3.1\ExercicioCap5.dll
+C:\Users\dougl\source\repos\ExercicioCap5\ExercicioCap5\bin\Debug\netcoreapp3.1\ExercicioCap5.pdb
+C:\Users\dougl\source\repos\ExercicioCap5\ExercicioCap5\obj\Debug\netcoreapp3.1\ExercicioCap5.csprojAssemblyReference.cache
+C:\Users\dougl\source\repos\ExercicioCap5\ExercicioCap5\obj\Debug\netcoreapp3.1\ExercicioCap5.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\ExercicioCap5\ExercicioCap5\obj\Debug\netcoreapp3.1\ExercicioCap5.AssemblyInfo.cs
+C:\Users\dougl\source\repos\ExercicioCap5\ExercicioCap5\obj\Debug\netcoreapp3.1\ExercicioCap5.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\ExercicioCap5\ExercicioCap5\obj\Debug\netcoreapp3.1\ExercicioCap5.dll
+C:\Users\dougl\source\repos\ExercicioCap5\ExercicioCap5\obj\Debug\netcoreapp3.1\ExercicioCap5.pdb
+C:\Users\dougl\source\repos\ExercicioCap5\ExercicioCap5\obj\Debug\netcoreapp3.1\ExercicioCap5.genruntimeconfig.cache
