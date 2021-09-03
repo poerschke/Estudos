@@ -1,0 +1,13 @@
+C:\Users\dougl\source\repos\listas1\listas1\bin\Debug\netcoreapp3.1\listas1.exe
+C:\Users\dougl\source\repos\listas1\listas1\bin\Debug\netcoreapp3.1\listas1.deps.json
+C:\Users\dougl\source\repos\listas1\listas1\bin\Debug\netcoreapp3.1\listas1.runtimeconfig.json
+C:\Users\dougl\source\repos\listas1\listas1\bin\Debug\netcoreapp3.1\listas1.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\listas1\listas1\bin\Debug\netcoreapp3.1\listas1.dll
+C:\Users\dougl\source\repos\listas1\listas1\bin\Debug\netcoreapp3.1\listas1.pdb
+C:\Users\dougl\source\repos\listas1\listas1\obj\Debug\netcoreapp3.1\listas1.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\listas1\listas1\obj\Debug\netcoreapp3.1\listas1.AssemblyInfo.cs
+C:\Users\dougl\source\repos\listas1\listas1\obj\Debug\netcoreapp3.1\listas1.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\listas1\listas1\obj\Debug\netcoreapp3.1\listas1.dll
+C:\Users\dougl\source\repos\listas1\listas1\obj\Debug\netcoreapp3.1\listas1.pdb
+C:\Users\dougl\source\repos\listas1\listas1\obj\Debug\netcoreapp3.1\listas1.genruntimeconfig.cache
+C:\Users\dougl\source\repos\listas1\listas1\obj\Debug\netcoreapp3.1\listas1.csprojAssemblyReference.cache

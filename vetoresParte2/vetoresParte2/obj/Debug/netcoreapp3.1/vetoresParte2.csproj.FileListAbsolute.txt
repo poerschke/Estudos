@@ -1,0 +1,13 @@
+C:\Users\dougl\source\repos\vetoresParte2\vetoresParte2\bin\Debug\netcoreapp3.1\vetoresParte2.exe
+C:\Users\dougl\source\repos\vetoresParte2\vetoresParte2\bin\Debug\netcoreapp3.1\vetoresParte2.deps.json
+C:\Users\dougl\source\repos\vetoresParte2\vetoresParte2\bin\Debug\netcoreapp3.1\vetoresParte2.runtimeconfig.json
+C:\Users\dougl\source\repos\vetoresParte2\vetoresParte2\bin\Debug\netcoreapp3.1\vetoresParte2.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\vetoresParte2\vetoresParte2\bin\Debug\netcoreapp3.1\vetoresParte2.dll
+C:\Users\dougl\source\repos\vetoresParte2\vetoresParte2\bin\Debug\netcoreapp3.1\vetoresParte2.pdb
+C:\Users\dougl\source\repos\vetoresParte2\vetoresParte2\obj\Debug\netcoreapp3.1\vetoresParte2.csprojAssemblyReference.cache
+C:\Users\dougl\source\repos\vetoresParte2\vetoresParte2\obj\Debug\netcoreapp3.1\vetoresParte2.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\vetoresParte2\vetoresParte2\obj\Debug\netcoreapp3.1\vetoresParte2.AssemblyInfo.cs
+C:\Users\dougl\source\repos\vetoresParte2\vetoresParte2\obj\Debug\netcoreapp3.1\vetoresParte2.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\vetoresParte2\vetoresParte2\obj\Debug\netcoreapp3.1\vetoresParte2.dll
+C:\Users\dougl\source\repos\vetoresParte2\vetoresParte2\obj\Debug\netcoreapp3.1\vetoresParte2.pdb
+C:\Users\dougl\source\repos\vetoresParte2\vetoresParte2\obj\Debug\netcoreapp3.1\vetoresParte2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dougl\source\repos\foreach\foreach\obj\Debug\netcoreapp3.1\foreach.csprojAssemblyReference.cache
+C:\Users\dougl\source\repos\foreach\foreach\obj\Debug\netcoreapp3.1\foreach.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\foreach\foreach\obj\Debug\netcoreapp3.1\foreach.AssemblyInfo.cs
+C:\Users\dougl\source\repos\foreach\foreach\obj\Debug\netcoreapp3.1\foreach.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\foreach\foreach\bin\Debug\netcoreapp3.1\foreach.exe
+C:\Users\dougl\source\repos\foreach\foreach\bin\Debug\netcoreapp3.1\foreach.deps.json
+C:\Users\dougl\source\repos\foreach\foreach\bin\Debug\netcoreapp3.1\foreach.runtimeconfig.json
+C:\Users\dougl\source\repos\foreach\foreach\bin\Debug\netcoreapp3.1\foreach.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\foreach\foreach\bin\Debug\netcoreapp3.1\foreach.dll
+C:\Users\dougl\source\repos\foreach\foreach\bin\Debug\netcoreapp3.1\foreach.pdb
+C:\Users\dougl\source\repos\foreach\foreach\obj\Debug\netcoreapp3.1\foreach.dll
+C:\Users\dougl\source\repos\foreach\foreach\obj\Debug\netcoreapp3.1\foreach.pdb
+C:\Users\dougl\source\repos\foreach\foreach\obj\Debug\netcoreapp3.1\foreach.genruntimeconfig.cache

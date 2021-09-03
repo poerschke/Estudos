@@ -1,0 +1,13 @@
+C:\Users\dougl\source\repos\execiciovetor1\execiciovetor1\obj\Debug\netcoreapp3.1\execiciovetor1.csprojAssemblyReference.cache
+C:\Users\dougl\source\repos\execiciovetor1\execiciovetor1\obj\Debug\netcoreapp3.1\execiciovetor1.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\execiciovetor1\execiciovetor1\obj\Debug\netcoreapp3.1\execiciovetor1.AssemblyInfo.cs
+C:\Users\dougl\source\repos\execiciovetor1\execiciovetor1\obj\Debug\netcoreapp3.1\execiciovetor1.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\execiciovetor1\execiciovetor1\bin\Debug\netcoreapp3.1\execiciovetor1.exe
+C:\Users\dougl\source\repos\execiciovetor1\execiciovetor1\bin\Debug\netcoreapp3.1\execiciovetor1.deps.json
+C:\Users\dougl\source\repos\execiciovetor1\execiciovetor1\bin\Debug\netcoreapp3.1\execiciovetor1.runtimeconfig.json
+C:\Users\dougl\source\repos\execiciovetor1\execiciovetor1\bin\Debug\netcoreapp3.1\execiciovetor1.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\execiciovetor1\execiciovetor1\bin\Debug\netcoreapp3.1\execiciovetor1.dll
+C:\Users\dougl\source\repos\execiciovetor1\execiciovetor1\bin\Debug\netcoreapp3.1\execiciovetor1.pdb
+C:\Users\dougl\source\repos\execiciovetor1\execiciovetor1\obj\Debug\netcoreapp3.1\execiciovetor1.dll
+C:\Users\dougl\source\repos\execiciovetor1\execiciovetor1\obj\Debug\netcoreapp3.1\execiciovetor1.pdb
+C:\Users\dougl\source\repos\execiciovetor1\execiciovetor1\obj\Debug\netcoreapp3.1\execiciovetor1.genruntimeconfig.cache
